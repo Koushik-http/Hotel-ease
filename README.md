@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript
+- **Frontend:** React, Next, HTML, CSS, Tail script 
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL
 - **Payment Integration:** Stripe API (for payment processing)
